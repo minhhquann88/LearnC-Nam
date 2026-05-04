@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\bin\Debug\net10.0\Phan7-File&Stream.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\bin\Debug\net10.0\Phan7-File&Stream.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\bin\Debug\net10.0\Phan7-File&Stream.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\bin\Debug\net10.0\Phan7-File&Stream.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\bin\Debug\net10.0\Phan7-File&Stream.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\refint\Phan7-File&Stream.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\Phan7-File&Stream.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan7-File&Stream\obj\Debug\net10.0\ref\Phan7-File&Stream.dll

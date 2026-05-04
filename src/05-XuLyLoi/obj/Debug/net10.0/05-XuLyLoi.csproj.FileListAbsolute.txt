@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\bin\Debug\net10.0\05-XuLyLoi.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\bin\Debug\net10.0\05-XuLyLoi.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\bin\Debug\net10.0\05-XuLyLoi.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\bin\Debug\net10.0\05-XuLyLoi.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\bin\Debug\net10.0\05-XuLyLoi.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\refint\05-XuLyLoi.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\05-XuLyLoi.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\05-XuLyLoi\obj\Debug\net10.0\ref\05-XuLyLoi.dll

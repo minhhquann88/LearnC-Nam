@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\bin\Debug\net10.0\01-NenTang.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\bin\Debug\net10.0\01-NenTang.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\bin\Debug\net10.0\01-NenTang.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\bin\Debug\net10.0\01-NenTang.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\bin\Debug\net10.0\01-NenTang.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\refint\01-NenTang.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\01-NenTang.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\01-NenTang\obj\Debug\net10.0\ref\01-NenTang.dll

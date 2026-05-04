@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\bin\Debug\net10.0\06-LinqVaFile.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\bin\Debug\net10.0\06-LinqVaFile.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\bin\Debug\net10.0\06-LinqVaFile.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\bin\Debug\net10.0\06-LinqVaFile.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\bin\Debug\net10.0\06-LinqVaFile.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\refint\06-LinqVaFile.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\06-LinqVaFile.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\06-LinqVaFile\obj\Debug\net10.0\ref\06-LinqVaFile.dll

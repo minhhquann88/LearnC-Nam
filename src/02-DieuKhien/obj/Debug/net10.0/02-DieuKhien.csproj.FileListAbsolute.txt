@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\bin\Debug\net10.0\02-DieuKhien.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\bin\Debug\net10.0\02-DieuKhien.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\bin\Debug\net10.0\02-DieuKhien.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\bin\Debug\net10.0\02-DieuKhien.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\bin\Debug\net10.0\02-DieuKhien.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\refint\02-DieuKhien.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\02-DieuKhien.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\02-DieuKhien\obj\Debug\net10.0\ref\02-DieuKhien.dll

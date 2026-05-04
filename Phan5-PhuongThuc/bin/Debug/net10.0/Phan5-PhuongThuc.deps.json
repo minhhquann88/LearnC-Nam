@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Phan5-PhuongThuc/1.0.0": {
+        "runtime": {
+          "Phan5-PhuongThuc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phan5-PhuongThuc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

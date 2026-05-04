@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\bin\Debug\net10.0\04-OOP.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\bin\Debug\net10.0\04-OOP.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\bin\Debug\net10.0\04-OOP.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\bin\Debug\net10.0\04-OOP.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\bin\Debug\net10.0\04-OOP.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\refint\04-OOP.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\04-OOP.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\04-OOP\obj\Debug\net10.0\ref\04-OOP.dll

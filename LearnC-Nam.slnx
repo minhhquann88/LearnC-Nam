@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Phan2-KieuDuLieu/Phan2-KieuDuLieu.csproj" Id="54a36039-16c5-43b1-a2f9-2f74a479088a" />
+    <Project Path="Phan3-Array/Phan3-Array.csproj" Id="7f2cbee1-5e4c-47c9-851a-64ab84e05a2f" />
+    <Project Path="Phan4-CauTrucDieuKhien/Phan4-CauTrucDieuKhien.csproj" Id="09d113f9-5e81-435a-93a0-93680bf922d0" />
+    <Project Path="Phan5-PhuongThuc/Phan5-PhuongThuc.csproj" Id="af67fe9e-c8a3-4355-be38-2fc8995659d4" />
+    <Project Path="Phan6-TryCatch/Phan6-TryCatch.csproj" Id="f48c5952-ed0a-42a9-8747-11b565fe0548" />
+    <Project Path="Phan7-File&amp;Stream/Phan7-File&amp;Stream.csproj" Id="ba501a94-c49b-41b3-b208-d64a7031458b" />
+  </Folder>
+</Solution>

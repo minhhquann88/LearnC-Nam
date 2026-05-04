@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\bin\Debug\net10.0\Phan3-Array.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\bin\Debug\net10.0\Phan3-Array.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\bin\Debug\net10.0\Phan3-Array.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\bin\Debug\net10.0\Phan3-Array.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\bin\Debug\net10.0\Phan3-Array.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\refint\Phan3-Array.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\Phan3-Array.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan3-Array\obj\Debug\net10.0\ref\Phan3-Array.dll

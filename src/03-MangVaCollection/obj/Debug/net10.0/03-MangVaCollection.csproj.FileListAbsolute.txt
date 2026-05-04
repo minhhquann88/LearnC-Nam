@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\bin\Debug\net10.0\03-MangVaCollection.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\bin\Debug\net10.0\03-MangVaCollection.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\bin\Debug\net10.0\03-MangVaCollection.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\bin\Debug\net10.0\03-MangVaCollection.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\bin\Debug\net10.0\03-MangVaCollection.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\refint\03-MangVaCollection.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\03-MangVaCollection.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\03-MangVaCollection\obj\Debug\net10.0\ref\03-MangVaCollection.dll

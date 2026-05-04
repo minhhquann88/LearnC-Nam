@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\bin\Debug\net10.0\07-Async.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\bin\Debug\net10.0\07-Async.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\bin\Debug\net10.0\07-Async.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\bin\Debug\net10.0\07-Async.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\bin\Debug\net10.0\07-Async.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\refint\07-Async.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\07-Async.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\src\07-Async\obj\Debug\net10.0\ref\07-Async.dll

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\bin\Debug\net10.0\Phan4-CauTrucDieuKhien.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\bin\Debug\net10.0\Phan4-CauTrucDieuKhien.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\bin\Debug\net10.0\Phan4-CauTrucDieuKhien.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\bin\Debug\net10.0\Phan4-CauTrucDieuKhien.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\bin\Debug\net10.0\Phan4-CauTrucDieuKhien.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\refint\Phan4-CauTrucDieuKhien.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\Phan4-CauTrucDieuKhien.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan4-CauTrucDieuKhien\obj\Debug\net10.0\ref\Phan4-CauTrucDieuKhien.dll

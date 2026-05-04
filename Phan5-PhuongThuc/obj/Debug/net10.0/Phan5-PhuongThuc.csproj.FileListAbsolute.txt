@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\bin\Debug\net10.0\Phan5-PhuongThuc.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\bin\Debug\net10.0\Phan5-PhuongThuc.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\bin\Debug\net10.0\Phan5-PhuongThuc.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\bin\Debug\net10.0\Phan5-PhuongThuc.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\bin\Debug\net10.0\Phan5-PhuongThuc.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\refint\Phan5-PhuongThuc.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\Phan5-PhuongThuc.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan5-PhuongThuc\obj\Debug\net10.0\ref\Phan5-PhuongThuc.dll

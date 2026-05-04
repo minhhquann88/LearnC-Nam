@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Phan4-CauTrucDieuKhien/1.0.0": {
+        "runtime": {
+          "Phan4-CauTrucDieuKhien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phan4-CauTrucDieuKhien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

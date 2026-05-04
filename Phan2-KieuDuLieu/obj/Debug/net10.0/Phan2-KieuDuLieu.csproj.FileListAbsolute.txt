@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\bin\Debug\net10.0\Phan2-KieuDuLieu.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\bin\Debug\net10.0\Phan2-KieuDuLieu.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\bin\Debug\net10.0\Phan2-KieuDuLieu.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\bin\Debug\net10.0\Phan2-KieuDuLieu.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\bin\Debug\net10.0\Phan2-KieuDuLieu.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\refint\Phan2-KieuDuLieu.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\Phan2-KieuDuLieu.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan2-KieuDuLieu\obj\Debug\net10.0\ref\Phan2-KieuDuLieu.dll

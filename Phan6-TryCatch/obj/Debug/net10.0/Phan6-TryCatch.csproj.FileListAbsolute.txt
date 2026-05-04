@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.sourcelink.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\bin\Debug\net10.0\Phan6-TryCatch.exe
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\bin\Debug\net10.0\Phan6-TryCatch.deps.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\bin\Debug\net10.0\Phan6-TryCatch.runtimeconfig.json
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\bin\Debug\net10.0\Phan6-TryCatch.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\bin\Debug\net10.0\Phan6-TryCatch.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\refint\Phan6-TryCatch.dll
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.pdb
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\Phan6-TryCatch.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\LearnC-Nam\Phan6-TryCatch\obj\Debug\net10.0\ref\Phan6-TryCatch.dll
